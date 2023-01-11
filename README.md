@@ -1,1 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1055529931523764285)](https://discord.com/users/1055529931523764285)
+<h1 align="center">
+  <img src="[(https://lanyard.cnrad.dev/api/1055529931523764285)">
+</h1>
